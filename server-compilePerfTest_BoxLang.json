@@ -1,0 +1,14 @@
+{
+    "debug":true,
+    "app":{
+        "cfengine":"boxlang@be"
+    },
+    "JVM":{
+        "javaVersion":"21"
+    },
+    "name":"compilePerfTest_BoxLang",
+    "env":{
+        "BOXLANG_DEBUG":true
+    },
+    "openbrowser":false
+}

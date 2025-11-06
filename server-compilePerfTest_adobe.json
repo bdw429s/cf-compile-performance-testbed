@@ -1,0 +1,9 @@
+{
+    "app":{
+        "cfengine":"adobe"
+    },
+    "JVM":{
+        "javaVersion":"21"
+    },
+    "name":"compilePerfTest_adobe"
+}

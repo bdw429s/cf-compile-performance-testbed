@@ -1,0 +1,1 @@
+<cfset myVar = "Hello World">
